@@ -1,1 +1,1 @@
-# correlation-one-datathon-2018
+# Correlation One Datathon - Waterloo, Fall 2018 
